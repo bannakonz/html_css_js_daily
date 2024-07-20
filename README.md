@@ -31,7 +31,7 @@ for example
 - _Responsive Meta Tag_
 `<meta name="viewport" content="width=device-width, initial-scale=1">`
 
-- _Dinamic and Reload New Web Page_ (_Do not depend on JS_)
+- _Dynamic and Reload New Web Page_ (_Do not depend on JS_)
 `<meta http-equiv="refresh" content="7; url='https://www.apple.com'">`
  
 
