@@ -22,3 +22,18 @@ for example
 - แท็ก `<html>` เป็น root element ของเอกสาร HTML ซึ่งครอบคลุมแท็ก `<head>` และ `<body>`.
 - แท็ก `<head>` ใช้สำหรับข้อมูลเมตา, ลิงก์ไปยังไฟล์ CSS, และสคริปต์.
 - แท็ก `<body>` เป็นที่ที่เนื้อหาหลักของเอกสาร (เช่น ข้อความ, รูปภาพ, ลิงก์) จะถูกวาง.
+
+
+-------------------------------------------------------------------------------------------------------------------------
+
+**Supply Metadata**
+
+- _Responsive Meta Tag_
+`<meta name="viewport" content="width=device-width, initial-scale=1">`
+
+- _Dinamic and Reload New Web Page_ (_Do not depend on JS_)
+`<meta http-equiv="refresh" content="7; url='https://www.apple.com'">`
+ 
+
+
+
